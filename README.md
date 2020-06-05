@@ -11,10 +11,10 @@ This is a snake game written in C++ and Allegro 5 library by Paulina Kalicka (PA
 ## Credits
 
 - Used library: [Allegro 5](https://liballeg.org/)
-- Font Kenny Mini downloaded from [Kenny](https://kenney.nl/)
+- Font Kenny Mini downloaded from [Kenney](https://kenney.nl/)
 - Foods bitmap based on images by pitr from [Openclipart](https://openclipart.org/)
 - Poops bitmap based on images by agomjo from [Openclipart](https://openclipart.org/)
-- Sounds downloaded from [Kenny](https://kenney.nl/)
+- Sounds downloaded from [Kenney](https://kenney.nl/)
 
 ## Notes
 
